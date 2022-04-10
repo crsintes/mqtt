@@ -1,0 +1,38 @@
+Script started on Sun Apr 10 14:44:51 2022
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 ~ % [K[?2004hggti g git clone [7mhttps://gith[7mu[7mb.com/crsintes/mqtt.git[27m[K[A[44C[27mh[27mt[27mt[27mp[27ms[27m:[27m/[27m/[27mg[27mi[27mt[27mhu[27mb[27m.[27mc[27mo[27mm[27m/[27mc[27mr[27ms[27mi[27mn[27mt[27me[27ms[27m/[27mm[27mq[27mt[27mt[27m.[27mg[27mi[27mt[?2004l
+Cloning into 'mqtt'...
+remote: Enumerating objects: 5, done.[K
+remote: Counting objects:  20% (1/5)[Kremote: Counting objects:  40% (2/5)[Kremote: Counting objects:  60% (3/5)[Kremote: Counting objects:  80% (4/5)[Kremote: Counting objects: 100% (5/5)[Kremote: Counting objects: 100% (5/5), done.[K
+remote: Compressing objects:  25% (1/4)[Kremote: Compressing objects:  50% (2/4)[Kremote: Compressing objects:  75% (3/4)[Kremote: Compressing objects: 100% (4/4)[Kremote: Compressing objects: 100% (4/4), done.[K
+Receiving objects:  20% (1/5)Receiving objects:  40% (2/5)Receiving objects:  60% (3/5)remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Receiving objects:  80% (4/5)Receiving objects: 100% (5/5)Receiving objects: 100% (5/5), 13.44 KiB | 382.00 KiB/s, done.
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 ~ % [K[?2004hccd mqtt[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/mqtt[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 mqtt % [K[?2004hlls[?2004l
+LICENSE		README.md	consumidor.py	productor.py
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/mqtt[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 mqtt % [K[?2004hggit add    init[?2004l
+Reinitialized existing Git repository in /Users/cristinasintesgarcia/mqtt/.git/
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/mqtt[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 mqtt % [K[?2004hggtg git add .[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/mqtt[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 mqtt % [K[?2004hggit commit -m "SUbi [K[A[79C[K[1B[K[A[79C  ubi [Keendo ejercicios"[?2004l
+[master a8f88d4] Subiendo ejercicios
+ 2 files changed, 72 insertions(+)
+ create mode 100644 consumidor.py
+ create mode 100644 productor.py
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/mqtt[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 mqtt % [K[?2004hggit push[?2004l
+Enumerating objects: 5, done.
+Counting objects:  20% (1/5)Counting objects:  40% (2/5)Counting objects:  60% (3/5)Counting objects:  80% (4/5)Counting objects: 100% (5/5)Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects:  25% (1/4)Compressing objects:  50% (2/4)Compressing objects:  75% (3/4)Compressing objects: 100% (4/4)Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 1.17 KiB | 1.17 MiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/crsintes/mqtt.git
+   715127f..a8f88d4  master -> master
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/mqtt[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 mqtt % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/mqtt[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 mqtt % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://MacBook-Pro-de-Cristina-3.local/Users/cristinasintesgarcia/mqtt[0m[27m[24m[J(base) cristinasintesgarcia@MacBook-Pro-de-Cristina-3 mqtt % [K[?2004h[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sun Apr 10 14:49:58 2022
